@@ -1,0 +1,18 @@
+{
+  "db_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/data/ai_intel_terminal_smoke.db",
+  "rss_documents": 2,
+  "github_documents": 2,
+  "persisted_events": 4,
+  "cluster_count": 4,
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-multi-source-daily-brief-zh.md",
+  "unified_artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-multi-source-investment-brief-zh.md",
+  "twitter_signal_count": 6,
+  "table_counts": {
+    "sources": 2,
+    "raw_documents": 4,
+    "events": 44,
+    "event_clusters": 5,
+    "event_cluster_members": 44,
+    "delivery_artifacts": 12
+  }
+}

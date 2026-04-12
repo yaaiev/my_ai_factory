@@ -1,0 +1,80 @@
+[
+  {
+    "person": "Sam Altman",
+    "platform": "ai_news_rss",
+    "timestamp": "Sun, 12 Apr 2026 08:00:00 GMT",
+    "event_type": "model_release",
+    "summary": "Sam Altman says OpenAI will launch a new model soon",
+    "sentiment": "neutral",
+    "risk_score": 0.0,
+    "relevance_score": 0.85,
+    "link": "https://example.com/openai-model-launch",
+    "raw_text": "OpenAI CEO Sam Altman discussed an upcoming model launch.",
+    "signal_strength_score": 0.95,
+    "research_priority": "high",
+    "entities": [
+      "OpenAI"
+    ],
+    "matched_person_keys": [
+      "sam_altman"
+    ]
+  },
+  {
+    "person": "Dario Amodei",
+    "platform": "ai_news_rss",
+    "timestamp": "Sun, 12 Apr 2026 09:00:00 GMT",
+    "event_type": "talent_movement",
+    "summary": "Anthropic expands hiring for safety and infrastructure teams",
+    "sentiment": "neutral",
+    "risk_score": 0.0,
+    "relevance_score": 0.85,
+    "link": "https://example.com/anthropic-hiring",
+    "raw_text": "Dario Amodei and Anthropic are linked to expanded hiring plans.",
+    "signal_strength_score": 0.82,
+    "research_priority": "medium",
+    "entities": [
+      "Anthropic"
+    ],
+    "matched_person_keys": [
+      "dario_amodei"
+    ]
+  },
+  {
+    "person": "Sam Altman",
+    "platform": "github_org_activity",
+    "timestamp": "2026-04-12T09:15:00Z",
+    "event_type": "model_release",
+    "summary": "Sam Altman mentioned in release notes for new model rollout",
+    "sentiment": "neutral",
+    "risk_score": 0.0,
+    "relevance_score": 0.85,
+    "link": "https://github.com/openai/openai-models/commit/abc123",
+    "raw_text": "Prepare launch assets for the new model release.",
+    "signal_strength_score": 0.95,
+    "research_priority": "high",
+    "entities": [
+      "OpenAI"
+    ],
+    "matched_person_keys": [
+      "sam_altman"
+    ]
+  },
+  {
+    "person": "",
+    "platform": "github_org_activity",
+    "timestamp": "2026-04-12T10:30:00Z",
+    "event_type": "model_release",
+    "summary": "Anthropic infra update expands deployment capacity",
+    "sentiment": "neutral",
+    "risk_score": 0.0,
+    "relevance_score": 0.5,
+    "link": "https://github.com/anthropics/infra/commit/def456",
+    "raw_text": "Infrastructure expansion supports new deployment rollout.",
+    "signal_strength_score": 0.85,
+    "research_priority": "high",
+    "entities": [
+      "Anthropic"
+    ],
+    "matched_person_keys": []
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-12T00:00:00Z",
+  "behavior_types": [
+    {
+      "key": "tweet_post",
+      "label_zh": "主动发言",
+      "weight": 0.9,
+      "description": "核心人物主动发帖或公开表达观点"
+    },
+    {
+      "key": "like",
+      "label_zh": "点赞",
+      "weight": 0.55,
+      "description": "通过点赞释放弱偏好或认可信号"
+    },
+    {
+      "key": "retweet",
+      "label_zh": "转发",
+      "weight": 0.45,
+      "description": "扩散他人内容，通常弱于原创发言"
+    },
+    {
+      "key": "reply",
+      "label_zh": "回复",
+      "weight": 0.7,
+      "description": "与他人直接互动，通常包含更明确立场"
+    },
+    {
+      "key": "silence_break",
+      "label_zh": "沉默后发声",
+      "weight": 0.8,
+      "description": "长时间沉默后突然发声，往往更具信号价值"
+    },
+    {
+      "key": "follow",
+      "label_zh": "关注变化",
+      "weight": 0.35,
+      "description": "弱关系变化信号，需要结合上下文判断"
+    }
+  ],
+  "signal_classes": [
+    "model_release",
+    "funding",
+    "talent_move",
+    "infra_expansion",
+    "policy",
+    "technical_discussion",
+    "product_iteration",
+    "noise"
+  ]
+}

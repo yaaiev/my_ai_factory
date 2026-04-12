@@ -1,0 +1,14 @@
+{
+  "db_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/data/ai_intel_terminal_twitter_smoke.db",
+  "raw_signal_count": 6,
+  "scored_signal_count": 6,
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-twitter-investment-signals-zh.md",
+  "table_counts": {
+    "sources": 0,
+    "raw_documents": 0,
+    "events": 0,
+    "event_clusters": 0,
+    "event_cluster_members": 0,
+    "delivery_artifacts": 3
+  }
+}

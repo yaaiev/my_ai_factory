@@ -1,0 +1,46 @@
+{
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-unified-investment-brief-zh.md",
+  "rss_event_count": 2,
+  "github_event_count": 2,
+  "twitter_signal_count": 6,
+  "table_counts": {
+    "sources": 0,
+    "raw_documents": 0,
+    "events": 0,
+    "event_clusters": 0,
+    "event_cluster_members": 0,
+    "delivery_artifacts": 3
+  },
+  "top_twitter_signal": {
+    "actor": "Sam Altman",
+    "signal_class": "model_release",
+    "behavior_type": "silence_break",
+    "summary": "We have been quiet, but the next model rollout is getting close. More details soon.",
+    "source_link": "https://twitter.com/sama/status/1001",
+    "timestamp": "2026-04-12T08:00:00Z",
+    "signal_score": 0.6498,
+    "actor_weight": 0.9,
+    "behavior_weight": 0.8,
+    "propagation_weight": 0.95,
+    "consistency_weight": 0.95,
+    "risk_score": 0.45,
+    "mapped_impact": "模型与应用层商业化节奏加快，关注平台生态扩展",
+    "mapped_action": "关注平台层公司及与模型生态绑定的应用层机会",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为靠近模型或产品节奏，通常早于正式新闻成为市场关注点。",
+    "score_breakdown": {
+      "actor_weight": 0.9,
+      "behavior_weight": 0.8,
+      "propagation_weight": 0.95,
+      "consistency_weight": 0.95
+    },
+    "tags": [
+      "model",
+      "rollout",
+      "openai"
+    ]
+  }
+}

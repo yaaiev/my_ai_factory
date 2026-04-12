@@ -1,0 +1,158 @@
+[
+  {
+    "cluster_id": 21,
+    "cluster_key": "0ce044535d86dbef4093461d70cf2d2c57c50b27",
+    "cluster_summary": "release: 2.31.0",
+    "member_event_ids": [
+      121
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 22,
+    "cluster_key": "3f481fd9e82980aaf1a7adb153ffe1880ed0df22",
+    "cluster_summary": "feat(client): add support for short-lived tokens (#1608)",
+    "member_event_ids": [
+      122
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 23,
+    "cluster_key": "bb9c6ba095796e53198b86a506450cd14f5bc9b2",
+    "cluster_summary": "feat(client): support sending raw data over websockets",
+    "member_event_ids": [
+      123
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 24,
+    "cluster_key": "b095a0f28c72ef31038831ac4ab8a7d1c3e90260",
+    "cluster_summary": "fix(client): preserve hardcoded query params when merging with user p…",
+    "member_event_ids": [
+      124
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 25,
+    "cluster_key": "982284dbc560aef1be170eec7e870fcb500cfb50",
+    "cluster_summary": "feat(api): add web_search_call.results to ResponseIncludable type",
+    "member_event_ids": [
+      125
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 26,
+    "cluster_key": "e03ce5fa9fd51ff96c57d11805fe32ba7d46130b",
+    "cluster_summary": "chore(tests): bump steady to v0.20.2",
+    "member_event_ids": [
+      126,
+      127,
+      136,
+      138
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "cluster_id": 27,
+    "cluster_key": "3f03a4c82ad7c0a638d9f8d50caf426ac5769f42",
+    "cluster_summary": "feat(api): add phase field to conversations message",
+    "member_event_ids": [
+      128
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 28,
+    "cluster_key": "bd858fcb73fc3e4b61e8f5a0ea849f6b3f91ed88",
+    "cluster_summary": "fix(types): remove web_search_call.results from ResponseIncludable",
+    "member_event_ids": [
+      129
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 29,
+    "cluster_key": "5bf36f9f822fa7ac4c925b381bcaf3e303268ebc",
+    "cluster_summary": "docs(api): update file parameter descriptions in vector_stores files …",
+    "member_event_ids": [
+      130
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 30,
+    "cluster_key": "0f61caf07c82a90e941735c45cfb510ddac1bbd7",
+    "cluster_summary": "feat(internal): implement indices array format for query and form ser…",
+    "member_event_ids": [
+      131
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 31,
+    "cluster_key": "ac4426d88ebde236e4eea0a02fc59dbb01cf0ecc",
+    "cluster_summary": "Pin GitHub Actions workflow references (#3021)",
+    "member_event_ids": [
+      132
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 32,
+    "cluster_key": "82b1963bba737683519396e0c2193dba862d0529",
+    "cluster_summary": "release: 2.30.0",
+    "member_event_ids": [
+      133
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 33,
+    "cluster_key": "1889aeb595b25f64d25655ece73850d1e416ec10",
+    "cluster_summary": "fix(api): align SDK response types with expanded item schemas",
+    "member_event_ids": [
+      134
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 34,
+    "cluster_key": "bf9dc86fb6e75463c1fa18de2176cf949fd019db",
+    "cluster_summary": "feat(api): add keys field to Click/DoubleClick/Drag/Move/Scroll compu…",
+    "member_event_ids": [
+      135
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 35,
+    "cluster_key": "d4a74799ee7b7454dec385c9e45ac32c7fc071db",
+    "cluster_summary": "chore(ci): skip lint on metadata-only changes",
+    "member_event_ids": [
+      137
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 36,
+    "cluster_key": "f84f280d37ae59f10ef57714836cf89540033ca4",
+    "cluster_summary": "fix(types): make type required in ResponseInputMessageItem",
+    "member_event_ids": [
+      139
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 37,
+    "cluster_key": "1353cad35a04e3871236af364a45c2866a38505c",
+    "cluster_summary": "chore(internal): update gitignore",
+    "member_event_ids": [
+      140
+    ],
+    "confidence_score": 0.72
+  }
+]

@@ -1,0 +1,798 @@
+[
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "@ShakeelHashim That was a bad word choice and i wish i hadn't used it.\n\nIt has been a tough day and I am not thinking the most clearly that I ever have.",
+    "timestamp": "2026-04-11T02:18:19+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@ShakeelHashim",
+    "url": "https://x.com/i/status/2042789312400363702",
+    "source_url": "https://x.com/i/status/2042789312400363702",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 2404.0,
+      "views": 284008.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
+    "timestamp": "2026-04-10T22:58:13+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2042738954550603884",
+    "source_url": "https://x.com/i/status/2042738954550603884",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 14813.0,
+      "views": 5481604.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
+    "timestamp": "2026-04-09T20:43:08+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2042342572958630332",
+    "source_url": "https://x.com/i/status/2042342572958630332",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 11505.0,
+      "views": 988165.0
+    },
+    "tags": [
+      "codex",
+      "chatgpt",
+      "gpt",
+      "launch",
+      "pro"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
+    "timestamp": "2026-04-07T23:25:45+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2041658719839383945",
+    "source_url": "https://x.com/i/status/2041658719839383945",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 27349.0,
+      "views": 1979660.0
+    },
+    "tags": [
+      "codex"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "@jaltma We can offer you a free chatgpt pro account, two openai tshirts of your choice, and you have to have max and me on the show together to discuss what went wrong in your weighlifting career.",
+    "timestamp": "2026-04-02T18:40:44+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@jaltma",
+    "url": "https://x.com/i/status/2039775053450289409",
+    "source_url": "https://x.com/i/status/2039775053450289409",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 4815.0,
+      "views": 611914.0
+    },
+    "tags": [
+      "chatgpt",
+      "gpt",
+      "pro"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+    "timestamp": "2026-04-02T18:35:31+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2039773740586918137",
+    "source_url": "https://x.com/i/status/2039773740586918137",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 6388.0,
+      "views": 1064440.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "This is a very good post:",
+    "timestamp": "2026-03-30T15:34:16+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2038640963036626971",
+    "source_url": "https://x.com/i/status/2038640963036626971",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 2430.0,
+      "views": 514679.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "The first steel beams went up this week at our Michigan Stargate site with Oracle and Related Digital https://t.co/Hl0NBqwfnS",
+    "timestamp": "2026-03-27T19:17:35+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2037610000122839116",
+    "source_url": "https://x.com/i/status/2037610000122839116",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "sam_altman",
+    "metrics": {
+      "likes": 7186.0,
+      "views": 1286276.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "@babgi Bonne idée ! \nMon laptop principal est sous Linux depuis toujours.",
+    "timestamp": "2026-04-12T03:56:01+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@babgi",
+    "url": "https://x.com/i/status/2043176287070457912",
+    "source_url": "https://x.com/i/status/2043176287070457912",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 292.0,
+      "views": 17230.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "@steeve And so were Llama-1 and a good chunk of Llama-2.",
+    "timestamp": "2026-04-11T22:06:00+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@steeve",
+    "url": "https://x.com/i/status/2043088201762447563",
+    "source_url": "https://x.com/i/status/2043088201762447563",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 146.0,
+      "views": 19082.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "Tired of winning",
+    "timestamp": "2026-04-11T15:13:39+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2042984428503232534",
+    "source_url": "https://x.com/i/status/2042984428503232534",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 786.0,
+      "views": 147113.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "@nicksdot @alz_zyd_ Use at your own risk 😄",
+    "timestamp": "2026-04-10T05:01:49+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@nicksdot",
+    "url": "https://x.com/i/status/2042468069193175102",
+    "source_url": "https://x.com/i/status/2042468069193175102",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 6.0,
+      "views": 1451.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "@chavank @alz_zyd_ The technology that enabled all the things you ever produced had its origin in a \"useless paper\" 5, 10, or 20 years prior that you don't even realize exists.",
+    "timestamp": "2026-04-10T05:01:04+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@chavank",
+    "url": "https://x.com/i/status/2042467879770058953",
+    "source_url": "https://x.com/i/status/2042467879770058953",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 29.0,
+      "views": 1519.0
+    },
+    "tags": [
+      "pro"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "@robbiebone @elonmusk The fact that an AI system is better than you at some tasks, can retrieve more declarative knowledge than you, and can write better prose than you does not make it more intelligent than you, or even than your cat.",
+    "timestamp": "2026-04-10T04:55:01+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@robbiebone",
+    "url": "https://x.com/i/status/2042466355710943508",
+    "source_url": "https://x.com/i/status/2042466355710943508",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 85.0,
+      "views": 6147.0
+    },
+    "tags": [
+      "pro"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "@wrongplace_eth @alz_zyd_ The company leadership was quite supportive, actually.\nBut the general product and development strategy went in a different direction.",
+    "timestamp": "2026-04-10T04:43:54+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@wrongplace_eth",
+    "url": "https://x.com/i/status/2042463559863472131",
+    "source_url": "https://x.com/i/status/2042463559863472131",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 15.0,
+      "views": 1353.0
+    },
+    "tags": [
+      "pro"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "I was director of FAIR from 2013 to 2018.\nFrom 2018 to 2025 I was an Individual Contributor, with nobody reporting to me. This allowed me to refocus on research.\nI had no direct control over resources.\nI had influence on research directions, but only with people willing to listen to me, as I wasn't their boss.",
+    "timestamp": "2026-04-10T04:39:10+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2042462369591275736",
+    "source_url": "https://x.com/i/status/2042462369591275736",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "yann_lecun",
+    "metrics": {
+      "likes": 25.0,
+      "views": 2422.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "@bbizzle0629 @comet @peymankh",
+    "timestamp": "2026-04-11T21:20:17+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@bbizzle0629",
+    "url": "https://x.com/i/status/2043076693863338131",
+    "source_url": "https://x.com/i/status/2043076693863338131",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 7.0,
+      "views": 2019.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "Perplexity Computer is more reliable than a CPA for filing taxes.",
+    "timestamp": "2026-04-10T01:02:38+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2042407875612721401",
+    "source_url": "https://x.com/i/status/2042407875612721401",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 685.0,
+      "views": 104748.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "@venkchandran @jeffgrimes9",
+    "timestamp": "2026-04-09T17:57:12+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@venkchandran",
+    "url": "https://x.com/i/status/2042300811443912974",
+    "source_url": "https://x.com/i/status/2042300811443912974",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 0.0,
+      "views": 814.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "@mikem3847 Coming",
+    "timestamp": "2026-04-09T16:40:36+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@mikem3847",
+    "url": "https://x.com/i/status/2042281537589428424",
+    "source_url": "https://x.com/i/status/2042281537589428424",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 6.0,
+      "views": 1014.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "@arrington @perplexity_ai Thanks for your support!",
+    "timestamp": "2026-04-09T15:44:35+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@arrington",
+    "url": "https://x.com/i/status/2042267436582637826",
+    "source_url": "https://x.com/i/status/2042267436582637826",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 26.0,
+      "views": 1839.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "Personal CFO",
+    "timestamp": "2026-04-09T15:15:06+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2042260018054255097",
+    "source_url": "https://x.com/i/status/2042260018054255097",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 1565.0,
+      "views": 276076.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "@aakashgupta Interesting",
+    "timestamp": "2026-04-02T20:39:46+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@aakashgupta",
+    "url": "https://x.com/i/status/2039805009836253405",
+    "source_url": "https://x.com/i/status/2039805009836253405",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 9.0,
+      "views": 1777.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Aravind Srinivas",
+    "content": "@elonmusk @mreiffy 🤣",
+    "timestamp": "2026-03-31T10:47:42+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@elonmusk",
+    "url": "https://x.com/i/status/2038931234056020422",
+    "source_url": "https://x.com/i/status/2038931234056020422",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "aravind_srinivas",
+    "metrics": {
+      "likes": 35.0,
+      "views": 3868.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "Grok groks",
+    "timestamp": "2026-04-12T11:42:41+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043293725804421596",
+    "source_url": "https://x.com/i/status/2043293725804421596",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 23891.0,
+      "views": 1526381.0
+    },
+    "tags": [
+      "Grok",
+      "grok"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "Yes",
+    "timestamp": "2026-04-12T11:36:23+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043292140974006435",
+    "source_url": "https://x.com/i/status/2043292140974006435",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 17715.0,
+      "views": 1522177.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "𝕏",
+    "timestamp": "2026-04-12T11:35:41+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043291964943253785",
+    "source_url": "https://x.com/i/status/2043291964943253785",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 4023.0,
+      "views": 1467373.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "This is great. \n\nAt least those judges who release violent criminals who go on to hurt more people will be publicly shamed!",
+    "timestamp": "2026-04-12T11:35:13+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043291848920469979",
+    "source_url": "https://x.com/i/status/2043291848920469979",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 34082.0,
+      "views": 1313524.0
+    },
+    "tags": [
+      "release"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "Yes",
+    "timestamp": "2026-04-12T11:32:07+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043291066087207102",
+    "source_url": "https://x.com/i/status/2043291066087207102",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 8236.0,
+      "views": 13013134.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "It’s definitely not fine",
+    "timestamp": "2026-04-12T11:31:55+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043291015273132161",
+    "source_url": "https://x.com/i/status/2043291015273132161",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 13819.0,
+      "views": 1762879.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "@xenocosmography These are fake judges",
+    "timestamp": "2026-04-12T11:30:00+00:00",
+    "raw_type": "reply",
+    "referenced_actor": "@xenocosmography",
+    "url": "https://x.com/i/status/2043290535029608837",
+    "source_url": "https://x.com/i/status/2043290535029608837",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 385.0,
+      "views": 10361.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Elon Musk",
+    "content": "Great movie",
+    "timestamp": "2026-04-12T11:29:09+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2043290320264368158",
+    "source_url": "https://x.com/i/status/2043290320264368158",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "elon_musk",
+    "metrics": {
+      "likes": 23409.0,
+      "views": 3463408.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "Codex app server makes it easy to build your own agentic apps:",
+    "timestamp": "2026-04-05T03:18:56+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2040630239823339992",
+    "source_url": "https://x.com/i/status/2040630239823339992",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 967.0,
+      "views": 158831.0
+    },
+    "tags": [
+      "codex"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "chatgpt for helping navigate health issues for a loved one:",
+    "timestamp": "2026-04-04T22:43:25+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2040560901955457300",
+    "source_url": "https://x.com/i/status/2040560901955457300",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 367.0,
+      "views": 79289.0
+    },
+    "tags": [
+      "chatgpt",
+      "gpt"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "AI use is an emerging skill which improves businesses and unlocks entrepreneurship:",
+    "timestamp": "2026-04-04T16:28:35+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2040466572158869832",
+    "source_url": "https://x.com/i/status/2040466572158869832",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 686.0,
+      "views": 219555.0
+    },
+    "tags": [
+      "pro"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "ship your app to Vercel with Codex:",
+    "timestamp": "2026-04-04T16:16:43+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2040463585088794740",
+    "source_url": "https://x.com/i/status/2040463585088794740",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 956.0,
+      "views": 121871.0
+    },
+    "tags": [
+      "codex"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "welcome to the team!!",
+    "timestamp": "2026-04-03T23:09:14+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2040205009954984057",
+    "source_url": "https://x.com/i/status/2040205009954984057",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 687.0,
+      "views": 117623.0
+    },
+    "tags": []
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "the codex app is growing super fast, it’s very well done",
+    "timestamp": "2026-04-03T06:17:05+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2039950296969863283",
+    "source_url": "https://x.com/i/status/2039950296969863283",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 919.0,
+      "views": 76089.0
+    },
+    "tags": [
+      "codex"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "We've changed our pricing so it's now possible to try Codex at work without any up-front commitment.\n\nCodex (especially through the app!) has gotten *really* good. Happy building!",
+    "timestamp": "2026-04-02T22:22:20+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2039830819498491919",
+    "source_url": "https://x.com/i/status/2039830819498491919",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 1406.0,
+      "views": 203008.0
+    },
+    "tags": [
+      "codex"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "AI creates new opportunity for entrepreneurs",
+    "timestamp": "2026-04-02T18:43:16+00:00",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://x.com/i/status/2039775690963484752",
+    "source_url": "https://x.com/i/status/2039775690963484752",
+    "observed_via": "opencli",
+    "observed_relationship": "seed",
+    "fetch_route": "opencli_search_live",
+    "seed_key": "greg_brockman",
+    "metrics": {
+      "likes": 721.0,
+      "views": 96575.0
+    },
+    "tags": []
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "db_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/data/ai_intel_terminal.db",
+  "requested_limit": 20,
+  "feed_urls": [
+    "https://github.com/openai/openai-python/commits/main.atom",
+    "https://github.com/openai/openai-cookbook/commits/main.atom",
+    "https://github.com/anthropics/anthropic-sdk-python/commits/main.atom",
+    "https://github.com/microsoft/autogen/commits/main.atom",
+    "https://github.com/NVIDIA/TensorRT-LLM/commits/main.atom",
+    "https://github.com/meta-llama/llama-models/commits/main.atom",
+    "https://github.com/openai/openai-python/releases.atom",
+    "https://github.com/anthropics/anthropic-sdk-python/releases.atom",
+    "https://github.com/microsoft/autogen/releases.atom"
+  ],
+  "feed_fetch_results": [
+    {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom",
+      "ok": true,
+      "document_count": 20,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/openai/openai-cookbook/commits/main.atom",
+      "ok": true,
+      "document_count": 20,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/anthropics/anthropic-sdk-python/commits/main.atom",
+      "ok": true,
+      "document_count": 20,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/microsoft/autogen/commits/main.atom",
+      "ok": true,
+      "document_count": 20,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/NVIDIA/TensorRT-LLM/commits/main.atom",
+      "ok": true,
+      "document_count": 20,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/meta-llama/llama-models/commits/main.atom",
+      "ok": true,
+      "document_count": 20,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/openai/openai-python/releases.atom",
+      "ok": true,
+      "document_count": 10,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/anthropics/anthropic-sdk-python/releases.atom",
+      "ok": true,
+      "document_count": 10,
+      "error": ""
+    },
+    {
+      "feed_url": "https://github.com/microsoft/autogen/releases.atom",
+      "ok": true,
+      "document_count": 10,
+      "error": ""
+    }
+  ],
+  "fetch_errors": [],
+  "fetched_documents": 150,
+  "persisted_documents": 20,
+  "persisted_events": 20,
+  "cluster_count": 17,
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-github-daily-brief-zh.md",
+  "table_counts": {
+    "sources": 3,
+    "raw_documents": 40,
+    "events": 140,
+    "event_clusters": 43,
+    "event_cluster_members": 140,
+    "delivery_artifacts": 10
+  }
+}

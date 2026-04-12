@@ -1,0 +1,32 @@
+{
+  "db_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/data/ai_intel_terminal.db",
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-twitter-investment-signals-opencli-zh.md",
+  "seed_count": 5,
+  "observed_signal_count": 40,
+  "scored_signal_count": 40,
+  "dependency_ready": true,
+  "browser_ready": true,
+  "browser_mode": "opencli",
+  "preferred_browser_mode": "opencli",
+  "resolved_cdp_url": "",
+  "successful_seeds": [
+    "Sam Altman",
+    "Yann LeCun",
+    "Aravind Srinivas",
+    "Elon Musk",
+    "Greg Brockman"
+  ],
+  "failed_seeds": {},
+  "behavior_counts": {
+    "reply": 15,
+    "tweet_post": 25
+  },
+  "route_counts": {
+    "opencli_search_live": 40
+  },
+  "discovered_neighbors": [],
+  "seed_view_diagnostics": [],
+  "notes": [
+    "opencli daemon 与扩展均已连接。"
+  ]
+}

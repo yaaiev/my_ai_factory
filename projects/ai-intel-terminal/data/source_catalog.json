@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "updated_at": "2026-04-12T00:00:00Z",
+  "sources": [
+    {
+      "key": "x_people_watch",
+      "source_type": "social",
+      "source_name": "X People Watch",
+      "signal_tier": "high",
+      "access_mode": "browser_observer",
+      "enabled_for_mvp": true,
+      "purpose": "追踪 Top 50 人物发言、互动和异常活跃度",
+      "notes": "第一阶段优先复用本机已登录浏览器态，通过浏览器观察层追踪真实行为；fixture 继续保留用于本地 smoke。",
+      "fixture_path": "tests/fixtures/x_signals.ndjson",
+      "base_url": "https://x.com",
+      "preferred_browser_mode": "cdp",
+      "default_cdp_url": "http://127.0.0.1:9222",
+      "browser_channel": "chrome",
+      "browser_channel_env": "X_BROWSER_CHANNEL",
+      "browser_user_data_dir_env": "X_BROWSER_USER_DATA_DIR",
+      "browser_cdp_url_env": "X_BROWSER_CDP_URL",
+      "observation_window_days": 30,
+      "behavior_types": ["tweet_post", "reply", "retweet", "like"],
+      "neighbor_frequency_threshold": 2,
+      "max_items_per_view": 20
+    },
+    {
+      "key": "ai_news_rss",
+      "source_type": "rss",
+      "source_name": "AI News RSS",
+      "signal_tier": "high",
+      "access_mode": "rss",
+      "enabled_for_mvp": true,
+      "purpose": "获取 AI 行业新闻、公司动态和政策变化",
+      "urls": [
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://www.wired.com/tag/artificial-intelligence/feed/rss",
+        "https://blog.google/technology/ai/rss/"
+      ]
+    },
+    {
+      "key": "github_org_activity",
+      "source_type": "github",
+      "source_name": "GitHub Activity",
+      "signal_tier": "high",
+      "access_mode": "atom",
+      "enabled_for_mvp": true,
+      "purpose": "监控公开 repo 的 release、commit 与工程活跃信号",
+      "notes": "优先使用更具体、活跃度更高的 repo atom feeds，而不是仅使用组织主页 feed。",
+      "feed_urls": [
+        "https://github.com/openai/openai-python/commits/main.atom",
+        "https://github.com/openai/openai-cookbook/commits/main.atom",
+        "https://github.com/anthropics/anthropic-sdk-python/commits/main.atom",
+        "https://github.com/microsoft/autogen/commits/main.atom",
+        "https://github.com/NVIDIA/TensorRT-LLM/commits/main.atom",
+        "https://github.com/meta-llama/llama-models/commits/main.atom",
+        "https://github.com/openai/openai-python/releases.atom",
+        "https://github.com/anthropics/anthropic-sdk-python/releases.atom",
+        "https://github.com/microsoft/autogen/releases.atom"
+      ]
+    },
+    {
+      "key": "youtube_interviews",
+      "source_type": "video",
+      "source_name": "YouTube Interviews",
+      "signal_tier": "medium",
+      "access_mode": "feed_or_transcript",
+      "enabled_for_mvp": false,
+      "purpose": "提取访谈中的观点和潜在战略信号"
+    },
+    {
+      "key": "company_blogs",
+      "source_type": "blog",
+      "source_name": "Company Blogs",
+      "signal_tier": "medium",
+      "access_mode": "rss_or_html",
+      "enabled_for_mvp": false,
+      "purpose": "跟踪官方发布、研究更新和产品路线"
+    }
+  ]
+}

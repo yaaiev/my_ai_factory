@@ -1,0 +1,67 @@
+[
+  {
+    "screen_name": "sama",
+    "name": "Sam Altman",
+    "bio": "AI is cool i guess",
+    "location": "SF",
+    "url": "http://blog.samaltman.com",
+    "followers": 4608585,
+    "following": 989,
+    "tweets": 7508,
+    "likes": 1020,
+    "verified": true,
+    "created_at": "Sun Jul 16 22:01:55 +0000 2006"
+  },
+  {
+    "screen_name": "ylecun",
+    "name": "Yann LeCun",
+    "bio": "Professor at NYU & Executive Chairman at AMI Labs. \nEx-Chief AI Scientist at Meta.\nResearcher in AI, Machine Learning, Robotics, etc.\nACM Turing Award Laureate.",
+    "location": "New York",
+    "url": "http://yann.lecun.com",
+    "followers": 1107900,
+    "following": 782,
+    "tweets": 25764,
+    "likes": 28407,
+    "verified": true,
+    "created_at": "Wed Jun 17 16:05:51 +0000 2009"
+  },
+  {
+    "screen_name": "AravSrinivas",
+    "name": "Aravind Srinivas",
+    "bio": "CEO @perplexity_ai",
+    "location": "SF",
+    "url": "https://computer.new",
+    "followers": 450049,
+    "following": 1365,
+    "tweets": 8627,
+    "likes": 34880,
+    "verified": true,
+    "created_at": "Sun Jul 31 23:32:29 +0000 2016"
+  },
+  {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "bio": "https://t.co/dDtDyVssfm",
+    "location": "",
+    "url": "",
+    "followers": 237821940,
+    "following": 1312,
+    "tweets": 101127,
+    "likes": 222177,
+    "verified": true,
+    "created_at": "Tue Jun 02 20:12:29 +0000 2009"
+  },
+  {
+    "screen_name": "gdb",
+    "name": "Greg Brockman",
+    "bio": "President & Co-Founder @OpenAI",
+    "location": "",
+    "url": "http://gregbrockman.com",
+    "followers": 951408,
+    "following": 8,
+    "tweets": 5922,
+    "likes": 2013,
+    "verified": true,
+    "created_at": "Fri Jul 02 19:38:09 +0000 2010"
+  }
+]

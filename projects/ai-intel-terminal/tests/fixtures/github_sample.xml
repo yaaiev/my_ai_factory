@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Recent Commits to openai:main</title>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/abc123</id>
+    <title>Sam Altman mentioned in release notes for new model rollout</title>
+    <updated>2026-04-12T09:15:00Z</updated>
+    <link href="https://github.com/openai/openai-models/commit/abc123" />
+    <author>
+      <name>openai-bot</name>
+    </author>
+    <content type="html">Prepare launch assets for the new model release.</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/def456</id>
+    <title>Anthropic infra update expands deployment capacity</title>
+    <updated>2026-04-12T10:30:00Z</updated>
+    <link href="https://github.com/anthropics/infra/commit/def456" />
+    <author>
+      <name>anthropic-eng</name>
+    </author>
+    <content type="html">Infrastructure expansion supports new deployment rollout.</content>
+  </entry>
+</feed>

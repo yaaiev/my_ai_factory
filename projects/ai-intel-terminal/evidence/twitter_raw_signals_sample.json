@@ -1,0 +1,144 @@
+[
+  {
+    "source": "twitter",
+    "author": "Sam Altman",
+    "content": "We have been quiet, but the next model rollout is getting close. More details soon.",
+    "timestamp": "2026-04-12T08:00:00Z",
+    "raw_type": "silence_break",
+    "referenced_actor": "",
+    "url": "https://twitter.com/sama/status/1001",
+    "source_url": "https://twitter.com/sama/status/1001",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "seed_key": "",
+    "metrics": {
+      "likes": 2400,
+      "reposts": 320,
+      "replies": 180
+    },
+    "tags": [
+      "model",
+      "rollout",
+      "openai"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Dario Amodei",
+    "content": "We are hiring more safety engineers and infrastructure researchers this quarter.",
+    "timestamp": "2026-04-12T08:20:00Z",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://twitter.com/dario/status/1002",
+    "source_url": "https://twitter.com/dario/status/1002",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "seed_key": "",
+    "metrics": {
+      "likes": 900,
+      "reposts": 110,
+      "replies": 40
+    },
+    "tags": [
+      "hiring",
+      "safety engineer",
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Jensen Huang",
+    "content": "Demand for training clusters and data center scale continues to accelerate.",
+    "timestamp": "2026-04-12T08:40:00Z",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://twitter.com/jensen/status/1003",
+    "source_url": "https://twitter.com/jensen/status/1003",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "seed_key": "",
+    "metrics": {
+      "likes": 1800,
+      "reposts": 250,
+      "replies": 70
+    },
+    "tags": [
+      "gpu",
+      "cluster",
+      "data center"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Greg Brockman",
+    "content": "Excited about the new API release path and what developers can build next.",
+    "timestamp": "2026-04-12T09:00:00Z",
+    "raw_type": "tweet_post",
+    "referenced_actor": "",
+    "url": "https://twitter.com/gdb/status/1004",
+    "source_url": "https://twitter.com/gdb/status/1004",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "seed_key": "",
+    "metrics": {
+      "likes": 700,
+      "reposts": 90,
+      "replies": 22
+    },
+    "tags": [
+      "api",
+      "release",
+      "developer"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "Yann LeCun",
+    "content": "Open technical discussion matters more than hype. The future is multimodal and open.",
+    "timestamp": "2026-04-12T09:15:00Z",
+    "raw_type": "reply",
+    "referenced_actor": "",
+    "url": "https://twitter.com/ylecun/status/1005",
+    "source_url": "https://twitter.com/ylecun/status/1005",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "seed_key": "",
+    "metrics": {
+      "likes": 1200,
+      "reposts": 140,
+      "replies": 210
+    },
+    "tags": [
+      "multimodal",
+      "open",
+      "technical discussion"
+    ]
+  },
+  {
+    "source": "twitter",
+    "author": "RandomMediaAI",
+    "content": "Breaking: another AI company says everything is amazing.",
+    "timestamp": "2026-04-12T09:30:00Z",
+    "raw_type": "retweet",
+    "referenced_actor": "",
+    "url": "https://twitter.com/random/status/1006",
+    "source_url": "https://twitter.com/random/status/1006",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "seed_key": "",
+    "metrics": {
+      "likes": 12,
+      "reposts": 1,
+      "replies": 0
+    },
+    "tags": [
+      "media"
+    ]
+  }
+]

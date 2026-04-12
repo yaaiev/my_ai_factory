@@ -1,0 +1,163 @@
+{
+  "db_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/data/ai_intel_terminal.db",
+  "requested_limit": 20,
+  "fetched_documents": 38,
+  "persisted_documents": 20,
+  "persisted_events": 20,
+  "cluster_count": 20,
+  "matched_people_count": 1,
+  "persisted_pairs": [
+    {
+      "raw_document_id": 1,
+      "event_id": 101,
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "event_type": "personal_incident",
+      "matched_person_keys": [
+        "sam_altman"
+      ]
+    },
+    {
+      "raw_document_id": 2,
+      "event_id": 102,
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "event_type": "media_reputation",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 3,
+      "event_id": 103,
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "event_type": "personal_incident",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 4,
+      "event_id": 104,
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 5,
+      "event_id": 105,
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 6,
+      "event_id": 106,
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "event_type": "model_release",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 7,
+      "event_id": 107,
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 8,
+      "event_id": 108,
+      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "event_type": "personal_incident",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 9,
+      "event_id": 109,
+      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "event_type": "model_release",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 10,
+      "event_id": 110,
+      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 11,
+      "event_id": 111,
+      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "event_type": "partnership",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 12,
+      "event_id": 112,
+      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+      "event_type": "model_release",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 13,
+      "event_id": 113,
+      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 14,
+      "event_id": 114,
+      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 15,
+      "event_id": 115,
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 16,
+      "event_id": 116,
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "event_type": "funding_round",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 17,
+      "event_id": 117,
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "event_type": "model_release",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 18,
+      "event_id": 118,
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 19,
+      "event_id": 119,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    },
+    {
+      "raw_document_id": 20,
+      "event_id": 120,
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "event_type": "research_breakthrough",
+      "matched_person_keys": []
+    }
+  ],
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-rss-daily-brief-zh.md",
+  "artifact_preview": "# AI Intel 情报日报 - RSS\n\n- 生成时间：2026-04-12T00:01:51.272671+00:00\n- 事件数：17\n- 聚类数：17\n- 报告模式：正式报告\n\n## 今日最重要的动态\n\n1. Sam Altman - Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home\n   - 事实摘要：Sam Altman 针对一条人物或舆情相关事件做出公开回应，当前焦点更偏个人层面而非业务发布。\n   - 情报意义：这类动态通常反映舆情、声誉或个人安全层面的波动，暂时不应直接解读为公司战略或模型进展。\n   - 研究建议：建议回看原报道、当事人回应与公司正式表态，确认是否进一步外溢到组织层面。\n   - 类型：`人物事件` | 平台：`ai_news_rss` | 相关度：`0.85` | 风险：`0.00`\n   - 匹配人物：sam_altman\n   - 相关实体：OpenAI\n   - 链接：https://techcrunch.com/2026/04/1",
+  "table_counts": {
+    "sources": 3,
+    "raw_documents": 40,
+    "events": 120,
+    "event_clusters": 43,
+    "event_cluster_members": 120,
+    "delivery_artifacts": 7
+  }
+}

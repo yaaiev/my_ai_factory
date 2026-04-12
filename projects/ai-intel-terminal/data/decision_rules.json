@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-12T00:00:00Z",
+  "rules": [
+    {
+      "signal_class": "infra_expansion",
+      "keywords": ["gpu", "cluster", "data center", "deployment capacity", "training"],
+      "impact": "AI Infra 板块热度上升，利好 NVIDIA、AMD、云基础设施链条",
+      "action": "短期关注 AI Infra 供应链与算力受益标的"
+    },
+    {
+      "signal_class": "model_release",
+      "keywords": ["launch", "release", "new model", "rollout", "app within chatgpt"],
+      "impact": "模型与应用层商业化节奏加快，关注平台生态扩展",
+      "action": "关注平台层公司及与模型生态绑定的应用层机会"
+    },
+    {
+      "signal_class": "talent_move",
+      "keywords": ["hiring", "joined", "recruiting", "safety engineer"],
+      "impact": "组织资源重新配置，可能预示新产品线或能力建设方向",
+      "action": "跟踪招聘规模、JD 变化和关键人物互动"
+    },
+    {
+      "signal_class": "policy",
+      "keywords": ["regulation", "policy", "hearing", "investigation"],
+      "impact": "监管不确定性上升，短期对高风险 AI 应用形成压制",
+      "action": "关注监管受影响公司和合规供应商"
+    },
+    {
+      "signal_class": "technical_discussion",
+      "keywords": ["agent", "multimodal", "video", "safety", "reasoning"],
+      "impact": "技术主题升温，可作为未来 1-4 周板块热度前导指标",
+      "action": "统计主题频次变化并与新闻/招聘交叉验证"
+    }
+  ]
+}

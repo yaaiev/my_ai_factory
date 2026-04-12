@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>AI News</title>
+    <item>
+      <title>Sam Altman says OpenAI will launch a new model soon</title>
+      <link>https://example.com/openai-model-launch</link>
+      <pubDate>Sun, 12 Apr 2026 08:00:00 GMT</pubDate>
+      <description>OpenAI CEO Sam Altman discussed an upcoming model launch.</description>
+      <author>AI Reporter</author>
+    </item>
+    <item>
+      <title>Anthropic expands hiring for safety and infrastructure teams</title>
+      <link>https://example.com/anthropic-hiring</link>
+      <pubDate>Sun, 12 Apr 2026 09:00:00 GMT</pubDate>
+      <description>Dario Amodei and Anthropic are linked to expanded hiring plans.</description>
+      <author>Tech Desk</author>
+    </item>
+  </channel>
+</rss>

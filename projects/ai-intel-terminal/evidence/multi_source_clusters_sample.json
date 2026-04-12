@@ -1,0 +1,38 @@
+[
+  {
+    "cluster_id": 1,
+    "cluster_key": "141c459aaba49924b9e6574f17a7369d5fa0e66c",
+    "cluster_summary": "Sam Altman says OpenAI will launch a new model soon",
+    "member_event_ids": [
+      41
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 2,
+    "cluster_key": "419edb65450557fc3cb2144daf97e39091078386",
+    "cluster_summary": "Anthropic expands hiring for safety and infrastructure teams",
+    "member_event_ids": [
+      42
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 3,
+    "cluster_key": "585e57fb18243d5b6c410953ec86c3b8320d4d8d",
+    "cluster_summary": "Sam Altman mentioned in release notes for new model rollout",
+    "member_event_ids": [
+      43
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 5,
+    "cluster_key": "0d4b02c4dfe7b1b8a8003670b0a0eab05bd34ae3",
+    "cluster_summary": "Anthropic infra update expands deployment capacity",
+    "member_event_ids": [
+      44
+    ],
+    "confidence_score": 0.72
+  }
+]

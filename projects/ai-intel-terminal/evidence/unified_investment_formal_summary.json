@@ -1,0 +1,14 @@
+{
+  "artifact_path": "/Users/dev/yana_prj/my_ai_factory/projects/ai-intel-terminal/evidence/2026-04-12-unified-investment-formal-zh.md",
+  "rss_event_count": 20,
+  "github_event_count": 20,
+  "twitter_signal_count": 40,
+  "table_counts": {
+    "sources": 3,
+    "raw_documents": 40,
+    "events": 140,
+    "event_clusters": 43,
+    "event_cluster_members": 140,
+    "delivery_artifacts": 34
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "source_key": "ai_news_rss",
+    "external_id": "a30d2ae7bde1857db0a25d6609ef730a92ae5e64",
+    "url": "https://example.com/openai-model-launch",
+    "title": "Sam Altman says OpenAI will launch a new model soon",
+    "author_name": "AI Reporter",
+    "published_at": "Sun, 12 Apr 2026 08:00:00 GMT",
+    "raw_text": "OpenAI CEO Sam Altman discussed an upcoming model launch.",
+    "language": "en",
+    "metadata": {
+      "feed_url": "fixture://rss-sample"
+    }
+  },
+  {
+    "source_key": "ai_news_rss",
+    "external_id": "a5ff4ce1325c05356389452c354b46588fede9d7",
+    "url": "https://example.com/anthropic-hiring",
+    "title": "Anthropic expands hiring for safety and infrastructure teams",
+    "author_name": "Tech Desk",
+    "published_at": "Sun, 12 Apr 2026 09:00:00 GMT",
+    "raw_text": "Dario Amodei and Anthropic are linked to expanded hiring plans.",
+    "language": "en",
+    "metadata": {
+      "feed_url": "fixture://rss-sample"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/abc123",
+    "url": "https://github.com/openai/openai-models/commit/abc123",
+    "title": "Sam Altman mentioned in release notes for new model rollout",
+    "author_name": "openai-bot",
+    "published_at": "2026-04-12T09:15:00Z",
+    "raw_text": "Prepare launch assets for the new model release.",
+    "language": "en",
+    "metadata": {
+      "feed_url": "fixture://github-sample"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/def456",
+    "url": "https://github.com/anthropics/infra/commit/def456",
+    "title": "Anthropic infra update expands deployment capacity",
+    "author_name": "anthropic-eng",
+    "published_at": "2026-04-12T10:30:00Z",
+    "raw_text": "Infrastructure expansion supports new deployment rollout.",
+    "language": "en",
+    "metadata": {
+      "feed_url": "fixture://github-sample"
+    }
+  }
+]

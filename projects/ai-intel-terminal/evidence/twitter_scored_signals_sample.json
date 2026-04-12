@@ -1,0 +1,192 @@
+[
+  {
+    "actor": "Sam Altman",
+    "signal_class": "model_release",
+    "behavior_type": "silence_break",
+    "summary": "We have been quiet, but the next model rollout is getting close. More details soon.",
+    "source_link": "https://twitter.com/sama/status/1001",
+    "timestamp": "2026-04-12T08:00:00Z",
+    "signal_score": 0.6498,
+    "actor_weight": 0.9,
+    "behavior_weight": 0.8,
+    "propagation_weight": 0.95,
+    "consistency_weight": 0.95,
+    "risk_score": 0.45,
+    "mapped_impact": "模型与应用层商业化节奏加快，关注平台生态扩展",
+    "mapped_action": "关注平台层公司及与模型生态绑定的应用层机会",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为靠近模型或产品节奏，通常早于正式新闻成为市场关注点。",
+    "score_breakdown": {
+      "actor_weight": 0.9,
+      "behavior_weight": 0.8,
+      "propagation_weight": 0.95,
+      "consistency_weight": 0.95
+    },
+    "tags": [
+      "model",
+      "rollout",
+      "openai"
+    ]
+  },
+  {
+    "actor": "Dario Amodei",
+    "signal_class": "talent_move",
+    "behavior_type": "tweet_post",
+    "summary": "We are hiring more safety engineers and infrastructure researchers this quarter.",
+    "source_link": "https://twitter.com/dario/status/1002",
+    "timestamp": "2026-04-12T08:20:00Z",
+    "signal_score": 0.731,
+    "actor_weight": 0.9,
+    "behavior_weight": 0.9,
+    "propagation_weight": 0.95,
+    "consistency_weight": 0.95,
+    "risk_score": 0.46,
+    "mapped_impact": "组织资源重新配置，可能预示新产品线或能力建设方向",
+    "mapped_action": "跟踪招聘规模、JD 变化和关键人物互动",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为指向招聘或组织配置变化，常常领先于后续产品与战略动作。",
+    "score_breakdown": {
+      "actor_weight": 0.9,
+      "behavior_weight": 0.9,
+      "propagation_weight": 0.95,
+      "consistency_weight": 0.95
+    },
+    "tags": [
+      "hiring",
+      "safety engineer",
+      "infrastructure"
+    ]
+  },
+  {
+    "actor": "Jensen Huang",
+    "signal_class": "infra_expansion",
+    "behavior_type": "tweet_post",
+    "summary": "Demand for training clusters and data center scale continues to accelerate.",
+    "source_link": "https://twitter.com/jensen/status/1003",
+    "timestamp": "2026-04-12T08:40:00Z",
+    "signal_score": 0.731,
+    "actor_weight": 0.9,
+    "behavior_weight": 0.9,
+    "propagation_weight": 0.95,
+    "consistency_weight": 0.95,
+    "risk_score": 0.42,
+    "mapped_impact": "AI Infra 板块热度上升，利好 NVIDIA、AMD、云基础设施链条",
+    "mapped_action": "短期关注 AI Infra 供应链与算力受益标的",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为指向算力、部署或基础设施扩张，是 AI Infra 板块的前导观察信号。",
+    "score_breakdown": {
+      "actor_weight": 0.9,
+      "behavior_weight": 0.9,
+      "propagation_weight": 0.95,
+      "consistency_weight": 0.95
+    },
+    "tags": [
+      "gpu",
+      "cluster",
+      "data center"
+    ]
+  },
+  {
+    "actor": "Greg Brockman",
+    "signal_class": "model_release",
+    "behavior_type": "tweet_post",
+    "summary": "Excited about the new API release path and what developers can build next.",
+    "source_link": "https://twitter.com/gdb/status/1004",
+    "timestamp": "2026-04-12T09:00:00Z",
+    "signal_score": 0.6156,
+    "actor_weight": 0.9,
+    "behavior_weight": 0.9,
+    "propagation_weight": 0.8,
+    "consistency_weight": 0.95,
+    "risk_score": 0.4,
+    "mapped_impact": "模型与应用层商业化节奏加快，关注平台生态扩展",
+    "mapped_action": "关注平台层公司及与模型生态绑定的应用层机会",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为靠近模型或产品节奏，通常早于正式新闻成为市场关注点。",
+    "score_breakdown": {
+      "actor_weight": 0.9,
+      "behavior_weight": 0.9,
+      "propagation_weight": 0.8,
+      "consistency_weight": 0.95
+    },
+    "tags": [
+      "api",
+      "release",
+      "developer"
+    ]
+  },
+  {
+    "actor": "Yann LeCun",
+    "signal_class": "technical_discussion",
+    "behavior_type": "reply",
+    "summary": "Open technical discussion matters more than hype. The future is multimodal and open.",
+    "source_link": "https://twitter.com/ylecun/status/1005",
+    "timestamp": "2026-04-12T09:15:00Z",
+    "signal_score": 0.5686,
+    "actor_weight": 0.9,
+    "behavior_weight": 0.7,
+    "propagation_weight": 0.95,
+    "consistency_weight": 0.95,
+    "risk_score": 0.33,
+    "mapped_impact": "技术主题升温，可作为未来 1-4 周板块热度前导指标",
+    "mapped_action": "统计主题频次变化并与新闻/招聘交叉验证",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为反映技术主题升温，适合作为趋势温度计而不是单独交易依据。",
+    "score_breakdown": {
+      "actor_weight": 0.9,
+      "behavior_weight": 0.7,
+      "propagation_weight": 0.95,
+      "consistency_weight": 0.95
+    },
+    "tags": [
+      "multimodal",
+      "open",
+      "technical discussion"
+    ]
+  },
+  {
+    "actor": "RandomMediaAI",
+    "signal_class": "noise",
+    "behavior_type": "retweet",
+    "summary": "Breaking: another AI company says everything is amazing.",
+    "source_link": "https://twitter.com/random/status/1006",
+    "timestamp": "2026-04-12T09:30:00Z",
+    "signal_score": 0.0835,
+    "actor_weight": 0.45,
+    "behavior_weight": 0.45,
+    "propagation_weight": 0.55,
+    "consistency_weight": 0.75,
+    "risk_score": 0.1,
+    "mapped_impact": "需进一步结合其他源交叉验证。",
+    "mapped_action": "暂列为观察信号，等待更多一致性证据。",
+    "target_actor": "",
+    "observed_via": "fixture",
+    "observed_relationship": "seed",
+    "fetch_route": "",
+    "research_reason_zh": "该行为传播价值有限，应低权重处理。",
+    "score_breakdown": {
+      "actor_weight": 0.45,
+      "behavior_weight": 0.45,
+      "propagation_weight": 0.55,
+      "consistency_weight": 0.75
+    },
+    "tags": [
+      "media"
+    ]
+  }
+]

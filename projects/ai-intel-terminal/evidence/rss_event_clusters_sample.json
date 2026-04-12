@@ -1,0 +1,182 @@
+[
+  {
+    "cluster_id": 38,
+    "cluster_key": "665f134f9e3025d223c7608643ef78009b7ec137",
+    "cluster_summary": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "member_event_ids": [
+      101
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 39,
+    "cluster_key": "e6e626d1d6aa7b66aad33ffb122f7afcaac98a9b",
+    "cluster_summary": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "member_event_ids": [
+      102
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 40,
+    "cluster_key": "9d7a7d803bf38333f3c51d078abd29112c251b4e",
+    "cluster_summary": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "member_event_ids": [
+      103
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 4,
+    "cluster_key": "af73d3903899c433224445f787ab65d2172bf447",
+    "cluster_summary": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "member_event_ids": [
+      104
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 5,
+    "cluster_key": "51de477d9f10cfd46e8e159be9089676fc4fb44d",
+    "cluster_summary": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+    "member_event_ids": [
+      105
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 41,
+    "cluster_key": "5e7374affb02831912fd9d9140155d951cbdc5b3",
+    "cluster_summary": "ChatGPT finally offers $100/month Pro plan",
+    "member_event_ids": [
+      106
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 7,
+    "cluster_key": "12b15457c4ec91040140e70e83e25ffc9aa6b93f",
+    "cluster_summary": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "member_event_ids": [
+      107
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 42,
+    "cluster_key": "4d64e90e4c1c351c6101ca275bd2215f7c389c75",
+    "cluster_summary": "After data breach, $10B-valued startup Mercor is having a month",
+    "member_event_ids": [
+      108
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 9,
+    "cluster_key": "c52559aceac230237ea6ecf1830ccb4b36d2d7de",
+    "cluster_summary": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "member_event_ids": [
+      109
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 10,
+    "cluster_key": "88f4506a07ede5160ee6381f08f9f1844aee7789",
+    "cluster_summary": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "member_event_ids": [
+      110
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 11,
+    "cluster_key": "e4e2731b818cf5a59dcf39f8f26bd40547ba7e71",
+    "cluster_summary": "Google and Intel deepen AI infrastructure partnership",
+    "member_event_ids": [
+      111
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 12,
+    "cluster_key": "0b17bd7908e5b4e9ee41843b947122dc9dabdeb8",
+    "cluster_summary": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+    "member_event_ids": [
+      112
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 13,
+    "cluster_key": "724b771a6c8f981028146782cbedcd6d343f6b11",
+    "cluster_summary": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+    "member_event_ids": [
+      113
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 14,
+    "cluster_key": "a56b2b4e344a21ec6e40013e4ddead679e40dc62",
+    "cluster_summary": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+    "member_event_ids": [
+      114
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 15,
+    "cluster_key": "b5a5d92f395cfa7c220663ea848f16f774d9ccc4",
+    "cluster_summary": "Poke makes using AI agents as easy as sending a text",
+    "member_event_ids": [
+      115
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 43,
+    "cluster_key": "825f2fca98eceda68e2d2d582ee20575a7600e0b",
+    "cluster_summary": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "member_event_ids": [
+      116
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 17,
+    "cluster_key": "f3b97a220ad528aef917289e1387e6b57a2c4e44",
+    "cluster_summary": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "member_event_ids": [
+      117
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 18,
+    "cluster_key": "1d9fc45ffb7b9de20533bb6047fb2c1ad60871a5",
+    "cluster_summary": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+    "member_event_ids": [
+      118
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 19,
+    "cluster_key": "1fd1b3f3e69172d8e5c19a9e4a2c963d105bfb97",
+    "cluster_summary": "New ways to balance cost and reliability in the Gemini API",
+    "member_event_ids": [
+      119
+    ],
+    "confidence_score": 0.72
+  },
+  {
+    "cluster_id": 20,
+    "cluster_key": "e6b2035a7a21391ffea223d81f76896b8654f3b9",
+    "cluster_summary": "Create, edit and share videos at no cost in Google Vids",
+    "member_event_ids": [
+      120
+    ],
+    "confidence_score": 0.72
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/750354ed65565b31d0547bf00f4f3180ac1bfeef",
+    "url": "https://github.com/openai/openai-python/commit/750354ed65565b31d0547bf00f4f3180ac1bfeef",
+    "title": "release: 2.31.0",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>release: 2.31.0</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/5be95364a5a82746cb7b1c77df10dfaf138496bb",
+    "url": "https://github.com/openai/openai-python/commit/5be95364a5a82746cb7b1c77df10dfaf138496bb",
+    "title": "feat(client): add support for short-lived tokens (#1608)",
+    "author_name": "karpetrosyan",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>feat(client): add support for short-lived tokens (#1608)\n\nCo-authored-by: stainless-app[bot] &lt;142633134+stainless-app[bot]@users.noreply.github.com&gt;</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/f1fd4fae0329ee3df2f1bb25d93f51311782ad1a",
+    "url": "https://github.com/openai/openai-python/commit/f1fd4fae0329ee3df2f1bb25d93f51311782ad1a",
+    "title": "feat(client): support sending raw data over websockets",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>feat(client): support sending raw data over websockets</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/73ea2f75ba57a1db964518b33b790b1e1251b8d5",
+    "url": "https://github.com/openai/openai-python/commit/73ea2f75ba57a1db964518b33b790b1e1251b8d5",
+    "title": "fix(client): preserve hardcoded query params when merging with user p…",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>fix(client): preserve hardcoded query params when merging with user params</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/454b2575d59a086f279d99dc791058acee2f14c0",
+    "url": "https://github.com/openai/openai-python/commit/454b2575d59a086f279d99dc791058acee2f14c0",
+    "title": "feat(api): add web_search_call.results to ResponseIncludable type",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>feat(api): add web_search_call.results to ResponseIncludable type</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/de2c7b1d087f41f33ada85a7460f32e55331778a",
+    "url": "https://github.com/openai/openai-python/commit/de2c7b1d087f41f33ada85a7460f32e55331778a",
+    "title": "chore(tests): bump steady to v0.20.2",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>chore(tests): bump steady to v0.20.2</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/6efca95a76f6ca9cb91fdf536c6c9ebcef075541",
+    "url": "https://github.com/openai/openai-python/commit/6efca95a76f6ca9cb91fdf536c6c9ebcef075541",
+    "title": "chore(tests): bump steady to v0.20.1",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>chore(tests): bump steady to v0.20.1</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/2076d85f9226113e4ba360a7f456091988092dbf",
+    "url": "https://github.com/openai/openai-python/commit/2076d85f9226113e4ba360a7f456091988092dbf",
+    "title": "feat(api): add phase field to conversations message",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>feat(api): add phase field to conversations message</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/c0c59afa39a82f73063a52f624a9a4a2a6bf3313",
+    "url": "https://github.com/openai/openai-python/commit/c0c59afa39a82f73063a52f624a9a4a2a6bf3313",
+    "title": "fix(types): remove web_search_call.results from ResponseIncludable",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>fix(types): remove web_search_call.results from ResponseIncludable</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/ad7cc79c80b7ddffb03c0339be05f468ae46d54f",
+    "url": "https://github.com/openai/openai-python/commit/ad7cc79c80b7ddffb03c0339be05f468ae46d54f",
+    "title": "docs(api): update file parameter descriptions in vector_stores files …",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>docs(api): update file parameter descriptions in vector_stores files and file_batches</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/d392aae08a2e2f0fdc3eb8985944102a86913694",
+    "url": "https://github.com/openai/openai-python/commit/d392aae08a2e2f0fdc3eb8985944102a86913694",
+    "title": "feat(internal): implement indices array format for query and form ser…",
+    "author_name": "stainless-app",
+    "published_at": "2026-04-08T21:00:37Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>feat(internal): implement indices array format for query and form serialization</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/58184ad545ee2abd98e171ee09766f259d7f38cd",
+    "url": "https://github.com/openai/openai-python/commit/58184ad545ee2abd98e171ee09766f259d7f38cd",
+    "title": "Pin GitHub Actions workflow references (#3021)",
+    "author_name": "hintz-openai",
+    "published_at": "2026-03-28T01:16:28Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>Pin GitHub Actions workflow references (#3021)</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/5ae2cc10e4140d36aa236fa7c0bc5ce5ff190a01",
+    "url": "https://github.com/openai/openai-python/commit/5ae2cc10e4140d36aa236fa7c0bc5ce5ff190a01",
+    "title": "release: 2.30.0",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>release: 2.30.0</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/6e772ae791759b25de83313614e0fb26eba895b7",
+    "url": "https://github.com/openai/openai-python/commit/6e772ae791759b25de83313614e0fb26eba895b7",
+    "title": "fix(api): align SDK response types with expanded item schemas",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>fix(api): align SDK response types with expanded item schemas\n\nFixes a variety of missing Items on Responses.\nOutputItem: add function_call_output, computer_tool_call_output, local_shell_call_output, mcp_approval_response, custom_tool_call_output\n\nItemResource: add reasoning,  compaction, custom_tool_call, custom_tool_call_output</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/cd72fba37866bfdddd4a84420afe2ff397279582",
+    "url": "https://github.com/openai/openai-python/commit/cd72fba37866bfdddd4a84420afe2ff397279582",
+    "title": "feat(api): add keys field to Click/DoubleClick/Drag/Move/Scroll compu…",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>feat(api): add keys field to Click/DoubleClick/Drag/Move/Scroll computer actions</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/4f43fe371037415ace13981a277917366b6fc24e",
+    "url": "https://github.com/openai/openai-python/commit/4f43fe371037415ace13981a277917366b6fc24e",
+    "title": "chore(tests): bump steady to v0.19.7",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>chore(tests): bump steady to v0.19.7</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/23bc02703bbb9497eadd5d56497d5d6954372a62",
+    "url": "https://github.com/openai/openai-python/commit/23bc02703bbb9497eadd5d56497d5d6954372a62",
+    "title": "chore(ci): skip lint on metadata-only changes",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>chore(ci): skip lint on metadata-only changes\n\nNote that we still want to run tests, as these depend on the metadata.</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/e3c59bf1ac8533a1be831a6d166f9f7abeabf8e0",
+    "url": "https://github.com/openai/openai-python/commit/e3c59bf1ac8533a1be831a6d166f9f7abeabf8e0",
+    "title": "chore(tests): bump steady to v0.19.6",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>chore(tests): bump steady to v0.19.6</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/56ad9ca089394e535d7df52fe48d544e54086ddc",
+    "url": "https://github.com/openai/openai-python/commit/56ad9ca089394e535d7df52fe48d544e54086ddc",
+    "title": "fix(types): make type required in ResponseInputMessageItem",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>fix(types): make type required in ResponseInputMessageItem</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  },
+  {
+    "source_key": "github_org_activity",
+    "external_id": "tag:github.com,2008:Grit::Commit/78c764bdf483a0c48789bfdefe6299830d5abde0",
+    "url": "https://github.com/openai/openai-python/commit/78c764bdf483a0c48789bfdefe6299830d5abde0",
+    "title": "chore(internal): update gitignore",
+    "author_name": "stainless-app",
+    "published_at": "2026-03-25T22:07:57Z",
+    "raw_text": "<pre style='white-space:pre-wrap;width:81ex'>chore(internal): update gitignore</pre>",
+    "language": "en",
+    "metadata": {
+      "feed_url": "https://github.com/openai/openai-python/commits/main.atom"
+    }
+  }
+]
