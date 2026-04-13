@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/mlruns/395994842921709355/3ad2dd207efb4ab58c79af27d9b84d91/artifacts
+end_time: 1776050321578
+entry_point_name: ''
+experiment_id: '395994842921709355'
+lifecycle_stage: active
+run_id: 3ad2dd207efb4ab58c79af27d9b84d91
+run_name: gentle-gull-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776050321568
+status: 3
+tags: []
+user_id: dev

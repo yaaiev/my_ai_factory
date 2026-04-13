@@ -1,0 +1,25 @@
+{
+  "run_id": "20260413T024045Z",
+  "params": {
+    "tickers": "NVDA,TSLA,MSFT,META,GOOGL",
+    "twitter_lookback_days": 14,
+    "twitter_bucket_days": 1,
+    "rolling_window_days": 3,
+    "min_sentiment_threshold": 0.08,
+    "min_mention_growth": 1.2,
+    "sentiment_backend": "finbert"
+  },
+  "metrics": {
+    "total_return": -0.007266,
+    "sharpe_ratio": 0.0,
+    "max_drawdown": 0.0,
+    "win_rate": 0.0
+  },
+  "artifacts": {
+    "processed": "/Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/processed/twitter_processed.csv",
+    "features": "/Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/features/twitter_features.csv",
+    "signals": "/Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/trading_signals.csv",
+    "backtest": "/Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/backtest_results.csv",
+    "metrics": "/Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/evaluation_metrics.json"
+  }
+}

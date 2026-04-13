@@ -1,0 +1,8 @@
+artifact_location: file:///Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/mlruns/395994842921709355
+creation_time: 1776050321466
+experiment_id: '395994842921709355'
+last_update_time: 1776050321466
+lifecycle_stage: active
+name: ai_trader_sentiment_backtest
+trace_location: null
+workspace: default
