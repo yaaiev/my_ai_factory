@@ -1,0 +1,52 @@
+version: 1
+updated_at: "2026-04-11T00:00:00Z"
+event_types:
+  - key: model_release
+    label: Model Release
+    description: 新模型发布、预告、灰测或重大版本升级
+    tier: core
+
+  - key: funding_round
+    label: Funding Round
+    description: 融资、并购、股权动作和重大资本事件
+    tier: core
+
+  - key: partnership
+    label: Partnership
+    description: 公司、研究机构或个人之间的合作与战略联盟
+    tier: core
+
+  - key: talent_movement
+    label: Talent Movement
+    description: 关键人物加入、离职、挖角、组织调整
+    tier: core
+
+  - key: policy_statement
+    label: Policy Statement
+    description: 监管、政策、公开立场与治理声明
+    tier: core
+
+  - key: research_breakthrough
+    label: Research Breakthrough
+    description: 论文、技术突破、方法创新、性能里程碑
+    tier: expansion
+
+  - key: infra_expansion
+    label: Infrastructure Expansion
+    description: GPU、数据中心、训练基础设施和招聘扩张信号
+    tier: expansion
+
+  - key: rumor
+    label: Rumor
+    description: 未被确认、需单独分层存储和验证的传闻
+    tier: controlled
+
+signal_strength:
+  - low
+  - medium
+  - high
+
+sentiment:
+  - negative
+  - neutral
+  - positive
