@@ -12,6 +12,12 @@ __pycache__/
 *.xlsx
 
 outputs/
+
+# Projects are standalone repositories unless explicitly managed here.
+/projects/*/
+!/projects/ai-intel-terminal/
+!/projects/ai-trader/
+
 projects/**/data/raw/
 projects/**/data/processed/
 projects/**/data/features/
