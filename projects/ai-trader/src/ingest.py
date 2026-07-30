@@ -108,6 +108,9 @@ def bootstrap_twitter_raw_data(
         normalized = _dedupe_twitter_rows(normalized)
         target_path = raw_path / f"{ticker.lower()}.json"
         temp_path = raw_path / f"{ticker.lower()}.json.tmp"
+        if not normalized and target_path.exists() and target_path.stat().st_size > 2:
+            LOGGER.warning("OpenCLI returned no rows for %s; keeping existing non-empty cache", ticker)
+            continue
         temp_path.write_text(
             json.dumps(normalized, ensure_ascii=False, indent=2),
             encoding="utf-8",

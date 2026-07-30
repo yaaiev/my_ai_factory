@@ -7,7 +7,7 @@ tickers:
 
 twitter:
   raw_dir: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/raw/twitter
-  lookback_days: 14
+  lookback_days: 7
   bucket_days: 1
   search_limit: 10
   use_opencli_bootstrap: true
@@ -23,7 +23,8 @@ twitter:
       - robotaxi
     MSFT:
       - MSFT
-      - '"Microsoft OpenAI"'
+      - '"Microsoft AI"'
+      - Copilot
       - '"Azure AI"'
     META:
       - META
@@ -33,6 +34,7 @@ twitter:
       - GOOGL
       - Gemini
       - '"Google AI"'
+      - '"Alphabet earnings"'
 
 prices:
   raw_dir: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/raw/prices
