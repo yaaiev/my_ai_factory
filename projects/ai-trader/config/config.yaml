@@ -1,0 +1,70 @@
+tickers:
+  - NVDA
+  - TSLA
+  - MSFT
+  - META
+  - GOOGL
+
+twitter:
+  raw_dir: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/raw/twitter
+  lookback_days: 7
+  bucket_days: 1
+  search_limit: 10
+  use_opencli_bootstrap: true
+  refresh_raw_data: false
+  search_terms:
+    NVDA:
+      - NVDA
+      - '"NVIDIA AI"'
+      - '"NVIDIA data center"'
+    TSLA:
+      - TSLA
+      - '"Tesla FSD"'
+      - robotaxi
+    MSFT:
+      - MSFT
+      - '"Microsoft AI"'
+      - Copilot
+      - '"Azure AI"'
+    META:
+      - META
+      - Llama
+      - '"Meta AI"'
+    GOOGL:
+      - GOOGL
+      - Gemini
+      - '"Google AI"'
+      - '"Alphabet earnings"'
+
+prices:
+  raw_dir: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/raw/prices
+  period_days: 60
+  use_cache: true
+
+sentiment:
+  backend: auto
+  model_name: ProsusAI/finbert
+  batch_size: 16
+  fallback_backend: lexicon
+
+feature:
+  rolling_window_days: 3
+  min_sentiment_threshold: 0.08
+  min_mention_growth: 1.2
+  auto_calibrate_thresholds: true
+  target_min_signals: 4
+
+output:
+  processed_path: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/processed/twitter_processed.csv
+  features_path: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/features/twitter_features.csv
+  signals_path: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/trading_signals.csv
+  backtest_path: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/backtest_results.csv
+  metrics_path: /Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/evaluation_metrics.json
+
+logging:
+  level: INFO
+
+tracker:
+  backend: auto
+  experiment_name: ai_trader_sentiment_backtest
+  tracking_uri: file:///Users/dev/yana_prj/my_ai_factory/projects/ai-trader/data/results/mlruns
