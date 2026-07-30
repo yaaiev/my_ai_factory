@@ -1,0 +1,65 @@
+[tool.ruff]
+target-version = "py311"
+line-length = 88
+extend-exclude = [
+    "projects/TradingAgents-CN",
+    "projects/VibeVoice",
+    "projects/daily_stock_analysis",
+]
+
+[tool.ruff.lint]
+select = [
+    "ANN",
+    "ASYNC",
+    "B",
+    "BLE",
+    "D",
+    "E",
+    "F",
+    "I",
+    "RUF",
+    "SIM",
+    "UP",
+]
+ignore = [
+    "D100",  # Module docstrings are optional; public APIs still require docs.
+    "D104",  # Package marker files do not need docstrings.
+    "D203",  # Use the Google-compatible D211 convention.
+    "D213",  # Use a summary on the first line (D212).
+    "RUF001",  # Chinese product copy intentionally contains CJK punctuation.
+    "RUF002",
+    "RUF003",
+]
+
+[tool.ruff.lint.flake8-annotations]
+allow-star-arg-any = false
+suppress-dummy-args = true
+
+[tool.ruff.lint.flake8-builtins]
+strict-checking = true
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+
+[tool.ruff.format]
+docstring-code-format = true
+line-ending = "lf"
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+pretty = true
+show_error_codes = true
+show_error_context = true
+warn_unreachable = true
+ignore_missing_imports = true
+exclude = [
+    "^projects/TradingAgents-CN/",
+    "^projects/VibeVoice/",
+    "^projects/daily_stock_analysis/",
+]
+
+[tool.pytest.ini_options]
+addopts = "-ra --strict-config --strict-markers"
+python_files = ["test_*.py", "*_test.py"]
+testpaths = ["projects"]

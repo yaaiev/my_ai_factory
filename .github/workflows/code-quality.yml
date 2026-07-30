@@ -1,0 +1,114 @@
+name: Code quality
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/code-quality.yml"
+      - ".pre-commit-config.yaml"
+      - "pyproject.toml"
+      - "projects/**"
+      - "standards/**"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/code-quality.yml"
+      - ".pre-commit-config.yaml"
+      - "pyproject.toml"
+      - "projects/**"
+      - "standards/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  changed-code-quality:
+    name: Changed code quality
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "0.11.7"
+
+      - name: Select comparison base
+        id: base
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PULL_REQUEST_BASE: ${{ github.event.pull_request.base.sha }}
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          if [[ "$EVENT_NAME" == "pull_request" ]]; then
+            echo "sha=$PULL_REQUEST_BASE" >> "$GITHUB_OUTPUT"
+          elif [[ "$EVENT_NAME" == "push" && ! "$PUSH_BEFORE" =~ ^0+$ ]]; then
+            echo "sha=$PUSH_BEFORE" >> "$GITHUB_OUTPUT"
+          else
+            echo "sha=HEAD^" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate Python configuration
+        run: |
+          uvx ruff check --show-settings projects/ai-trader/main.py >/dev/null
+          uvx mypy --config-file pyproject.toml --version
+
+      - name: Check changed Python files
+        env:
+          BASE_SHA: ${{ steps.base.outputs.sha }}
+        run: |
+          mapfile -t files < <(
+            git diff --name-only --diff-filter=ACMR "$BASE_SHA" HEAD -- projects \
+              | grep -E \
+                '^projects/(ai-intel-terminal|ai-trader)/.*\.py$' || true
+          )
+          if (( ${#files[@]} == 0 )); then
+            echo "No root-managed Python files changed."
+            exit 0
+          fi
+          uvx ruff format --check "${files[@]}"
+          uvx ruff check "${files[@]}"
+          for file in "${files[@]}"; do
+            uvx mypy --config-file pyproject.toml "$file"
+          done
+
+      - name: Check changed Python tests
+        env:
+          BASE_SHA: ${{ steps.base.outputs.sha }}
+        run: |
+          mapfile -t tests < <(
+            git diff --name-only --diff-filter=ACMR "$BASE_SHA" HEAD -- projects \
+              | grep -E \
+                '^projects/(ai-intel-terminal|ai-trader)/(.*/)?(test_[^/]+|[^/]+_test)\.py$' \
+              || true
+          )
+          if (( ${#tests[@]} == 0 )); then
+            echo "No pytest test files changed."
+            exit 0
+          fi
+          uvx pytest "${tests[@]}"
+
+      - name: Install frontend standards
+        run: npm ci --ignore-scripts --no-audit --no-fund
+        working-directory: standards/frontend
+
+      - name: Check changed frontend files
+        env:
+          BASE_SHA: ${{ steps.base.outputs.sha }}
+        run: |
+          mapfile -t files < <(
+            git diff --name-only --diff-filter=ACMR "$BASE_SHA" HEAD -- projects \
+              | grep -E \
+                '^projects/(ai-intel-terminal|ai-trader)/.*\.(js|jsx|ts|tsx)$' \
+              || true
+          )
+          if (( ${#files[@]} == 0 )); then
+            echo "No root-managed frontend files changed."
+            exit 0
+          fi
+          npm --prefix standards/frontend exec -- eslint \
+            --config standards/frontend/eslint.config.mjs "${files[@]}"
+          npm --prefix standards/frontend exec -- prettier --check "${files[@]}"

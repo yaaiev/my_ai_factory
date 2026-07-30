@@ -1,8 +1,19 @@
 __pycache__/
 *.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
 
 .idea/
 .mongodb/
+.env
+.env.*
+!.env.example
+
+node_modules/
+coverage/
+dist/
 
 *.db
 *.sqlite
